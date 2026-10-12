@@ -20,6 +20,6 @@ public class Main {
         System.out.println("chicken");
         System.out.println("candy");
         System.out.println("almonds");
-
+        System.out.println("milk");
         }
     }
