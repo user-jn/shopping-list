@@ -19,5 +19,7 @@ public class Main {
         System.out.println("bread");
         System.out.println("chicken");
         System.out.println("candy");
+        System.out.println("almonds");
+
         }
     }
